@@ -1,7 +1,8 @@
 # Kickstarter Analysis
+---
+---
 Performing Analysis on Kick starter Data to Discover Trends
----
----
+
 
 ## Project Overview
 
