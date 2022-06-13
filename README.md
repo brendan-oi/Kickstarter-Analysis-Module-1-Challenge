@@ -17,7 +17,7 @@ The chart below shows a notable uptick in the number of successful campaigns lau
 ![Theater_Outcomes_vs_Launch.png](https://github.com/brendan-oi/Kickstarter-Analysis-Module-1-Challenge/blob/main/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-![Outcomes_vs_Goals.png](path/to/image_name.png](https://github.com/brendan-oi/Kickstarter-Analysis-Module-1-Challenge/blob/main/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals.png](https://github.com/brendan-oi/Kickstarter-Analysis-Module-1-Challenge/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
