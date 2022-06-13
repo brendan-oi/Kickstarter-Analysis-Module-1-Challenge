@@ -1,12 +1,15 @@
 # Kickstarter Analysis
 Performing Analysis on Kick starter Data to Discover Trends
+---
+---
 
-
-## Overview of Project
+## Project Overview
 
 ### Purpose
+Our goal here is to help Louise design her kickstarter campaign to maximize her chance of success. To do so we will leverage the available kickstarter data and identify trends linked with succes and trends to avoid. 
 
 ## Analysis and Challenges
+We've got a lot raw data to work with. Thankfully we have excell to help us make senese of it all. We'll need 
 
 ### Analysis of Outcomes Based on Launch Date
 
